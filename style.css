@@ -1,0 +1,25 @@
+body { 
+    box-shadow: 3px;
+    font: bold;
+    background-color: antiquewhite;
+    border: 6px;
+
+}
+h1 {
+ 
+    background-color: aqua;
+    width: 100px;
+    height:50px;
+    margin-left: 100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h {
+ display: flex;
+ border-image: 2px;
+justify-content: center;
+flex-direction: row;
+margin: 100px;
+
+
+}
+   
